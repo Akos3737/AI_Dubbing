@@ -1,0 +1,22 @@
+# Python 캐시 파일
+__pycache__/
+*.py[cod]
+*.so
+
+# 가상환경
+venv/
+.env/
+
+# IDE 설정 파일
+.vscode/
+.idea/
+
+# 로그 파일
+*.log
+
+# 운영체제별 파일
+.DS_Store
+Thumbs.db
+
+# 출력 결과물
+outputs/
